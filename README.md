@@ -52,3 +52,12 @@ embedded inside any sort of DLL, and might already be in some DLLs.
 
 [rd]: https://support.microsoft.com/en-us/kb/164787
 
+## Credit
+
+(c) boxmein 2015. 
+
+A copy of the MIT License (which, guess what, this project is under!) is in 
+`./LICENSE`.
+
+
+
